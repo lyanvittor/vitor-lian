@@ -1,22 +1,23 @@
-#aa{
-    width: 100%;}
+
+
     body{
-        background-color: ;
+        background-color:red ;
         }
         
-        Estilizar o título principal do seu site
+        
          h1{
-        color: ;
+        color: blue;
         font-family: ;
         background: ;
         }
         
-        Estilizar os parágrafos
+       
         p{
-        color: ;
+        color: blue;
         font-family: ;
         font-size: ;
         background: ;
         }
 
-        #aa{width: 100%;}
+        #aa{
+            width: 100%;} 
